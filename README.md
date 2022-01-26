@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Metehan</h1>
 <h3>I'm an industrial engineer and software developer.</h3>
 
-- 🌱 I’m currently learning **Android (Kotlin - Java) | Flutter (Dart)**
-
 - 📫 How to reach me **metehan.bolat.ie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

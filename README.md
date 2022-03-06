@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Metehan</h1>
-<h3>I'm an industrial engineer and software developer.</h3>
+<h3>I'm both a software developer and an industrial engineer.</h3>
 
 - 📫 How to reach me **metehan.bolat.ie@gmail.com**
 

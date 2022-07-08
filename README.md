@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=07B6F7&center=true&lines=Hi!%F0%9F%99%82+I'm+Metehan.)](https://git.io/typing-svg)
 <h1></h1>
-<h3>I'm both a Android developer and an industrial engineer.</h3>
+<h3>I'm both a Android developer and an Industrial engineer.</h3>
 
 - 📫 How to reach me **metehan.bolat.ie@gmail.com**
 
